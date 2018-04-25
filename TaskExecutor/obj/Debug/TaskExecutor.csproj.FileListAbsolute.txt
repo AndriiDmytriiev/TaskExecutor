@@ -1,0 +1,8 @@
+c:\Projects\TaskExecutor\TaskExecutor\bin\Debug\TaskExecutor.exe.config
+c:\Projects\TaskExecutor\TaskExecutor\bin\Debug\TaskExecutor.exe
+c:\Projects\TaskExecutor\TaskExecutor\bin\Debug\TaskExecutor.pdb
+c:\Projects\TaskExecutor\TaskExecutor\obj\Debug\TaskExecutor.exe
+c:\Projects\TaskExecutor\TaskExecutor\obj\Debug\TaskExecutor.pdb
+C:\C#_projects\TaskExecutor\TaskExecutor\bin\Debug\TaskExecutor.exe.config
+C:\C#_projects\TaskExecutor\TaskExecutor\obj\Debug\TaskExecutor.exe
+C:\C#_projects\TaskExecutor\TaskExecutor\obj\Debug\TaskExecutor.pdb
