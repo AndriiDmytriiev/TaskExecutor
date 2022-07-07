@@ -75,7 +75,7 @@ namespace TaskUtils
                 Task t1 = factory.StartNew(() => {
                     for (int outer = 0; outer <= 10; outer++)
                     {
-                        for (int i = 0x21; i <= 0x7E; i++)
+                        for (int i = 0; i <= 1; i++)
                         {
                             lock (lockObj)
                             {
